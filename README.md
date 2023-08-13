@@ -1,2 +1,2 @@
 # calculator
- i make this calculator which easy done simple mathematical calculations 
+ i make this calculator which easily done simple mathematical calculations 
